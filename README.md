@@ -14,7 +14,7 @@
 # Artificial Intlligance and Machine Learning Lab Jupyter Notebooks
 1. [Lab 01](https://github.com/2303A51009/AIML-2025/blob/main/AIML_Lab01_pynb.ipynb);
 2. [Lab 02](https://github.com/2303A51009/AIML-2025/blob/main/Lab02_AIML.ipynb);
-3. [Lab 03]();
+3. [Lab 03](https://github.com/2303A51009/AIML-2025/blob/main/lab03_pynb.ipynb);
 4. [Lab 04](https://github.com/2303A51013/AIML-2025/blob/main/AIML_LAB04.ipynb);
 5. [Lab 05]();
 6. [Lab 06]();
